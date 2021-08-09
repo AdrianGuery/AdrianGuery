@@ -14,7 +14,8 @@ Après avoir commencé la **programmation** à l’âge de 15 ans, j’ai pu cr�
 J’ai été le **product owner** sur l’ensemble de ces projets tout en réalisant le développement de nombreuses fonctionnalités, ce qui me permet aujourd’hui d’être un **product owner technique** et **développeur front-end** 👨‍💻
 
 
-Nous avons également été récompensés par de multiple concours : 
+Nous avons également été récompensés par de multiple concours :
+
   🏅 2 médailles d’or du **Concours Lépine**
   🏅 Grand lauréat concours Smart-City par **Dassault Systems**
   🏅 3 médailles d’or **Nuit de l'info**
