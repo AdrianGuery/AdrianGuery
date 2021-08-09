@@ -1,8 +1,9 @@
-**Product owner,** développeur et entrepreneur, les nouvelles technologies ont toujours été une passion pour moi 👨‍💻
+**Product owner,** **développeur et entrepreneur**, les nouvelles technologies ont toujours été une passion pour moi 👨‍💻
 
 Après avoir commencé la **programmation** à l’âge de 15 ans, j’ai pu créer ma première entreprise à l’âge de 18 ans dans laquelle je réalisais des sites vitrines, en parallèle de ma prépa en école d’ingénieur 🧑‍🎓
 
 À l'âge de 20 ans, j’ai rejoint le parcours **d'ingénieur en informatique** de Polytech Tours et j’ai co-fondé ma seconde entreprise : **ToolPad.** Avec deux co-fondateurs également développeurs, nous avons développé 6 produits : 
+
   🔹 ToolPad Néo 
   🔹 AtelierNum'
   🔹 AutoCut
