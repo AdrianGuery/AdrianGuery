@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23184283&lines=Hello%2C+I'm+Adrian+Guery;Software+engineer+%26+front-end+developer;React.js%2C+Gatsby.js%2C+Firebase%2C+Algolia)](https://git.io/typing-svg)
+
 **Product owner,** **développeur et entrepreneur**, les nouvelles technologies ont toujours été une passion pour moi 👨‍💻
 
 Après avoir commencé la **programmation** à l’âge de 15 ans, j’ai pu créer ma première entreprise à l’âge de 18 ans dans laquelle je réalisais des sites vitrines, en parallèle de ma prépa en école d’ingénieur 🧑‍🎓
