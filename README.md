@@ -11,7 +11,7 @@ Après avoir commencé la **programmation** à l’âge de 15 ans, j’ai pu cr�
   🔹 AutoCut<br/>
   🔹 StackD<br/>
   🔹 Visiste +<br/>
-  🔹 Pupylle.<br/>
+  🔹 Pupylle.<br/><br/>
 
 J’ai été le **product owner** sur l’ensemble de ces projets tout en réalisant le développement de nombreuses fonctionnalités, ce qui me permet aujourd’hui d’être un **product owner technique** et **développeur front-end** 👨‍💻<br/>
 
