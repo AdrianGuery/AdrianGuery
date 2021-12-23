@@ -25,3 +25,6 @@ Nous avons également été récompensés par de multiple concours :<br/>
   🏅 Grand lauréat national prix **PEPITE**<br/>
 
 👉 N’hésitez pas à faire appel à mes services, je serais ravi de mettre mes compétences à disposition de votre projet !
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
