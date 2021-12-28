@@ -28,5 +28,5 @@ Nous avons également été récompensés par de multiple concours :<br/>
 
 **Random Quote/Fact** :
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
+<i>❝“There’s no obfuscated Perl contest because it’s pointless.”— Jeff Polk   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
