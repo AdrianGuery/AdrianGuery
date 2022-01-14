@@ -28,5 +28,5 @@ Nous avons également été récompensés par de multiple concours :<br/>
 
 **Random Quote/Fact** :
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
+<i>❝Approximately 70% of virus writers are said to work under contract for organized crime syndicates.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
