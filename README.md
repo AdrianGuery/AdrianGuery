@@ -1,15 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23184283&width=500&lines=Hello%2C+I'm+Adrian+Guery;Software+engineer+%26+front-end+developer;React.js%2C+Gatsby.js%2C+Firebase%2C+Algolia)](https://git.io/typing-svg)
 
-**Software engineer,** **développeur et entrepreneur**, les nouvelles technologies ont toujours été une passion pour moi 👨‍💻<br/>
+**Software engineer,** **développeur et entrepreneur**, les nouvelles technologies ont toujours été une passion <br/>
 
-Produits : 
-
-  🔹 ToolPad Néo<br/>
-  🔹 AtelierNum'<br/>
-  🔹 AutoCut<br/>
-  🔹 StackD<br/>
-  🔹 Visiste +<br/>
-  🔹 Pupylle.<br/><br/>
+Avec deux co-fondateurs, également développeurs, nous avons créé : Kezios (ex ToolPad), nous avons développé 6 produits :<br/>
+  - ToolPad Néo <br/>
+  - AtelierNum'<br/>
+  - AutoCut<br/>
+  - StackD<br/>
+  - Visite +<br/>
+  - Pupylle<br/>
 
 
 Récompenses :<br/>
