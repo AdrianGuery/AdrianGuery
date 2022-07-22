@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23184283&width=500&lines=Hello%2C+I'm+Adrian+Guery;Software+engineer+%26+front-end+developer;React.js%2C+Gatsby.js%2C+Firebase%2C+Algolia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23184283&width=500&lines=Hello%2C+I'm+Adrian+Guery;Software+engineer+%26+front-end+developer;React.js%2C+Next.js%2C+Gatsby.js%2C+Firebase%2C+Algolia)](https://git.io/typing-svg)
 
 **Software engineer,** **developer and entrepreneur**, new technologies have always been a passion for me<br/>
   
