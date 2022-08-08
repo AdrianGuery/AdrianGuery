@@ -27,5 +27,5 @@ With two co-founders, also developers, we created: Kezios (ex ToolPad), and deve
   
 **Random Quote/Fact** : (update everyday)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝More than 80% of the emails sent daily are spams.❞</i>
+<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
