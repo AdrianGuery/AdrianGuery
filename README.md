@@ -9,8 +9,10 @@ My lasts blog posts :
 - Page 404 multilingue - Gatsby.js : https://dev.to/kezios/page-404-multilingue-gatsbyjs-51g9
 
 
-**My latest videos posts : **
-https://user-images.githubusercontent.com/45165546/187446198-e79d5187-3dbc-4185-bedc-d99bd1fc019c.mp4
+**My latest videos posts** : 
+<p align="center">
+<video src="https://user-images.githubusercontent.com/45165546/187446198-e79d5187-3dbc-4185-bedc-d99bd1fc019c.mp4" alt="Next.js" height=100/>
+</p>
 
 Awards :<br/>
 
