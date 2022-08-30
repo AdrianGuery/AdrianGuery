@@ -9,6 +9,9 @@ My lasts blog posts :
 - Page 404 multilingue - Gatsby.js : https://dev.to/kezios/page-404-multilingue-gatsbyjs-51g9
 
 
+**My latest videos posts : **
+https://user-images.githubusercontent.com/45165546/187446198-e79d5187-3dbc-4185-bedc-d99bd1fc019c.mp4
+
 Awards :<br/>
 
   🏅 2 gold medals of **Concours Lépine**<br/>
@@ -29,3 +32,4 @@ With two co-founders, also developers, we created: Kezios (ex ToolPad), and deve
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
+
