@@ -32,6 +32,6 @@ With two co-founders, also developers, we created: Kezios (ex ToolPad), and deve
   
 **Random Quote/Fact** : (update everyday)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to learn data science is to do data science.”— Chanin Nantasenamat❞</i>
+<i>❝E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
