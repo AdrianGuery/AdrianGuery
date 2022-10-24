@@ -32,6 +32,6 @@ With two co-founders, also developers, we created: Kezios (ex ToolPad), and deve
   
 **Random Quote/Fact** : (update everyday)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
