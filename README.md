@@ -32,6 +32,6 @@ With two co-founders, also developers, we created: Kezios (ex ToolPad), and deve
   
 **Random Quote/Fact** : (update everyday)
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
