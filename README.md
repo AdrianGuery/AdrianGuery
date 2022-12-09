@@ -2,6 +2,10 @@
 
 **Software engineer,** **developer and entrepreneur**, new technologies have always been a passion for me<br/>
   
+**My Tiktok (videos about programming)** : 
+- https://www.tiktok.com/@adrianguery?lang=en
+
+
 My lasts blog posts : 
 - Advantages of SSG over SSR : https://dev.to/kezios/advantages-of-ssg-over-ssr-3na
 - Fallback Client side route in Gatsby : https://dev.to/kezios/fallback-client-side-route-in-gatsby-40o0
