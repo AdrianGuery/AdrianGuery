@@ -2,7 +2,7 @@
 
 **Software engineer,** **developer and entrepreneur**, new technologies have always been a passion for me<br/>
   
-**My Tiktok (videos about programming)** : 
+**My Tiktok (fully automated videos about programming)** : 
 - https://www.tiktok.com/@adrianguery?lang=en
 
 
